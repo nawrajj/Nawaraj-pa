@@ -38,10 +38,11 @@ nav ul li a:hover{
   color:red;
 }
 nav ul li a{
-display: block;
+display: block-line;
   color: white;
   font-size: 30px;
 height:20px;
+padding-left:auto;
   font-family:arial;
   font-style:italic;
   border-top:1px solid rgba(255, 255, 255, 0.1);
@@ -91,7 +92,7 @@ font-family:arial;
 h1{
   font-size: 45px;
   padding: 25px 0 5px 0px;
-  color: yellow;
+  color:brown;
   font:bold;
   font-style: italic;
   font-family:arial;
@@ -106,6 +107,6 @@ h3{
     margin-left: 270px;
 }
 a{
-image-position:right;
-image-size:15px;
+image-position:center;
+image-size:10px;
 }
