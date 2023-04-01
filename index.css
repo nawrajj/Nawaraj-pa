@@ -40,7 +40,6 @@ nav ul li a{
 display: block-line;
   color: white;
   font-size: 30px;
-height:5px;
   font-family:arial;
   font-style:italic;
   border-top:1px solid rgba(255, 255, 255, 0.1);
@@ -106,5 +105,4 @@ h3{
 }
 a{
 image-position:left;
-image-size:10px;
 }
