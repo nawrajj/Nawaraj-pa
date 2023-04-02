@@ -37,7 +37,7 @@ nav ul li a:hover{
 nav ul li a{
 display: block-line;
   color: white;
-height :10px;
+height :5px;
 padding:0px;
   font-size: 25px;
   font-family:arial;
@@ -47,7 +47,7 @@ padding:0px;
   transition: 0.4s ease-in-out;
 }
 nav .LOGO{
-  font-size: 32px;
+  font-size: 38px;
   font-weight: bold;
   font-style:italic;
   color:gold;
@@ -104,6 +104,6 @@ h3{
     margin-left: 270px;
 }
 a{
-image-position:left;
-size:10px;
+image-position:centre;
+size:5px;
 }
